@@ -3,7 +3,8 @@
 Practice app for Cisco CCNP ENCOR (350-401 v1.1). 500 original questions across the six exam domains, weighted to the blueprint.
 
 - Full exam: 100 questions, 120-minute timer, scored by domain
-- Quick practice, domain drills, and missed-question review in sets of 10, 20, 50, or all (unseen questions first)
+- 5-question test: timed (6 min), scored at the end
+- Quick practice, domain drills, and missed-question review in sets of 5, 10, 20, 50, or all (unseen questions first)
 - Works offline and installs to a phone home screen (PWA)
 - Progress is saved in the browser, with backup/restore
 
